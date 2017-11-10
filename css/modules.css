@@ -1,0 +1,12 @@
+.extidi-user-wrap{overflow:auto;padding:5px;margin:1px;cursor:move;}
+.extidi-user-wrap img{float:left;margin-right:10px;}
+.extidi-user-wrap span{font-weight:bold;}
+
+
+.extidi-roles-view{overflow:auto;}
+.extidi-roles-view-text{text-align:center;color:#ccc;font-weight:bold;font-size:16px;margin-top:10px;}
+.extidi-role-wrap{float:left;padding:15px;margin:20px 0px 0 20px;height:90px;width:200px;border:5px solid #99BCE8;-moz-border-radius: 60px;-webkit-border-radius: 60px;border-radius: 60px;-khtml-border-radius: 60px;}
+.extidi-role-wrap span{font-weight:bold;}
+
+
+.extidi-permission-icon{width:16px;height:16px;cursor:pointer;}

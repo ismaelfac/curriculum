@@ -1,0 +1,11 @@
+commit 65093479b65618a665f7aa8971dd32b14e3abf03
+Author: ismaelfac <ilastre@fundacionidi.org>
+Date:   Fri Nov 10 11:46:15 2017 -0500
+
+    Modelo monitoria base version1
+
+commit 2282e46c0ac45e18b5b522b325ec708743e50d75
+Author: ISMAEL ENRIQUE LASTRE ALVAREZ <ismaelfac@gmail.com>
+Date:   Fri Nov 10 10:55:07 2017 -0500
+
+    Initial commit

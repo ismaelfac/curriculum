@@ -1,0 +1,18 @@
+<IfModule mod_deflate.c>
+	<Files *.css>
+		SetOutputFilter DEFLATE
+	</Files>
+	<Files *.js>
+		SetOutputFilter DEFLATE
+	</Files>
+</IfModule>
+
+<Files composer.*>
+	Order Allow,Deny
+	Deny from all
+</Files>
+
+<Files .gitignore>
+	Order Allow,Deny
+	Deny from all
+</Files>
